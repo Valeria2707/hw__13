@@ -1,0 +1,19 @@
+body{
+    padding: 50px;
+}
+
+#main{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.btn{
+    background-color: cyan;
+    font-weight: bold;
+    font-size: 20px;
+    border: 2px solid rgb(12, 129, 129);
+    border-radius: 20px;
+    width: 300px;
+    height: 100px;
+}
